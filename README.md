@@ -18,5 +18,5 @@
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/victor-cabana-simões/)  
-- Email: victorcsimoes021@gmail.com
+- victorcsimoes021@gmail.com
 ---
