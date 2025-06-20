@@ -2,7 +2,7 @@
 
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
 💻 Desenvolvedor Python com foco em automação, bots e sistemas  
-🎮 Apaixonado por jogos retrô, também desenvolvo games simples com Pygame  
+🎮 Apaixonado por jogos retrô e desenvolvimento de jogos 
 
 ## 🛠️ Tecnologias que uso
 
