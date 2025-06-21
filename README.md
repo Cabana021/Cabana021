@@ -1,22 +1,36 @@
-# Olá, eu me chamo Victor Cabana!
+<h1 align="center">Olá, eu sou o Victor Cabana 👋</h1>
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor Python com foco em automação, bots e sistemas  
-🎮 Apaixonado por jogos retrô e desenvolvimento de jogos 
+<p align="center">
+🚀 Estudante de Análise e Desenvolvimento de Sistemas <br>
+⚙️ Foco em desenvolvimento back-end com Python e automações <br>
+🎮 Apaixonado por jogos retrô e projetos criativos
+</p>
 
-## 🛠️ Tecnologias que uso
-
-- **Linguagens:** Python, JavaScript e Node.js
-- **Frameworks e libs:** Tkinter, Pygame, Selenium, BeautifulSoup, Requests, BotTelegramApi, Matplotlib
-- **Ferramentas:** Git e GitHub
-  
-## 📌 Projetos em destaque
-
-- [🎮 Game Asteroids](https://github.com/Cabana021/game-asteroids): jogo com estilo retrô feito com Pygame  
-- [📊 Análise Brasileirão](https://github.com/Cabana021/analise-brasileirao): análise de dados de equipes do Brasileirão Série A e B 
-
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/victor-cabana-simões/)  
-- victorcsimoes021@gmail.com
 ---
+
+### 🧠 Tecnologias que uso
+
+- **Linguagens**: Python, JavaScript, Node.js  
+- **Frameworks e libs**: FastAPI, Pygame, Selenium, BeautifulSoup, Requests, Tkinter, BotTelegramApi  
+- **Ferramentas**: Git, GitHub e Visual Studio Code
+
+---
+
+### 💼 Projetos em Destaque
+
+🔹 [Game Asteroids](https://github.com/Cabana021/game-asteroids)  
+Jogo estilo retrô feito com Pygame
+
+🔹 [Análise Brasileirão](https://github.com/Cabana021/analise-brasileirao)  
+Coleta e análise de dados de equipes do Brasileirão Série A e B
+
+🔹 [Cabana Bot](https://github.com/Cabana021/bot-telegram)  
+Bot no Telegram que envia notícias automatizadas do G1 e GE
+
+---
+
+### 📬 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/victor-cabana-simoes/)  
+- [Instagram](https://www.instagram.com/_vcabana)  
+- 📧 victorcsimoes021@gmail.com
