@@ -12,7 +12,7 @@
 
 - **Linguagens**: Python, JavaScript, Node.js  
 - **Frameworks e libs**: FastAPI, Pygame, Selenium, BeautifulSoup, Requests, Tkinter, BotTelegramApi  
-- **Ferramentas**: Git, GitHub e Visual Studio Code
+- **Ferramentas**: Git, GitHub e SQL
 
 ---
 
