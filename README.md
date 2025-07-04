@@ -31,6 +31,5 @@ Bot no Telegram que envia notícias automatizadas do G1 e GE
 
 ### 📬 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/victor-cabana-simoes/)  
-- [Instagram](https://www.instagram.com/_vcabana)  
-- 📧 victorcsimoes021@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/victor-cabana-simoes/)    
+- victorcsimoes021@gmail.com
