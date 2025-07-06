@@ -24,7 +24,7 @@ Jogo estilo retrô feito com Pygame
 🔹 [Análise Brasileirão](https://github.com/Cabana021/analise-brasileirao)  
 Coleta e análise de dados de equipes do Brasileirão Série A e B
 
-🔹 [VSystem](https://github.com/Cabana021/vsystem-manager)
+🔹 [VSystem](https://github.com/Cabana021/vsystem-manager)   
 Sistema de gerenciamento de estoque, produtos e alunos desenvolvido em Python
 
 ---
