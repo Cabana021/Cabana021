@@ -24,8 +24,8 @@ Jogo estilo retrô feito com Pygame
 🔹 [Análise Brasileirão](https://github.com/Cabana021/analise-brasileirao)  
 Coleta e análise de dados de equipes do Brasileirão Série A e B
 
-🔹 [Cabana Bot](https://github.com/Cabana021/bot-telegram)  
-Bot no Telegram que envia notícias automatizadas do G1 e GE
+🔹 [VSystem]((https://github.com/Cabana021/vsystem-manager))  
+Sistema de gerenciamento de estoque, produtos e alunos desenvolvido em Python
 
 ---
 
