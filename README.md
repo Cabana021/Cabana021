@@ -31,7 +31,7 @@
   Jogo 2D desenvolvido com Python e Pygame. Inspirado no clássico *Asteroids*, apresenta um jogo arcade desafiador e divertido, com inimigos e sistema de pontuação.
 
 - 🗂️ **[Sistema Python](https://github.com/Cabana021/vsystem-manager)**  
-  Sistema CRUD feito com Python e integração a SQL. Permite gerenciar estoque, produtos, clientes e alunos, com informações para cada registro.
+  Aplicação CRUD desenvolvida em Python com integração a SQL. Permite gerenciar estoques, produtos, clientes e alunos de forma simples e eficiente, com armazenamento estruturado em banco de dados.
 
 ---
 
