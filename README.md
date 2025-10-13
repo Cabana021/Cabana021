@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, eu sou o Victor Cabana</h1>
 
 <p align="center">
-  🚀 Estudante de <b>Análise e Desenvolvimento de Sistemas</b><br>
-  ⚙️ Focado em <b>desenvolvimento back-end com Python</b> e automações<br>
-  🎮 Apaixonado por jogos retrô e projetos criativos
+  🚀 Focado em <b>Engenharia de Dados</b><br>
+  ⚙️ Experiência com <b>Python</b>, <b>SQL</b> e automações<br>
+  📊 Apaixonado por tecnologia!
 </p>
 
 ---
@@ -12,23 +12,31 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
+
+---
+
+### 📂 Projetos em destaque
+
+- 🧱 **[Automação no Linkedin](https://github.com/Cabana021/automacao-linkedin)**  
+  Automação desenvolvida com Python e Selenium para gerenciar conexões no LinkedIn, removendo contatos com base em palavras-chave definidas pelo usuário.
+
+- 📈 **[Análise de Dados com Pandas](https://github.com/Cabana021/analise-brasileirao)**  
+  Projeto em Python para coleta e análise de dados das Séries A e B do Campeonato Brasileiro. Utiliza Pandas e Matplotlib para gerar gráficos e insights sobre desempenho das equipes.
+
+- ☁️ **[Asteroids](https://github.com/Cabana021/game-asteroids)**  
+  Jogo 2D desenvolvido com Python e Pygame. Inspirado no clássico *Asteroids*, apresenta um jogo arcade desafiador e divertido, com inimigos e sistema de pontuação.
 
 ---
 
 ### 📌 Sobre mim
 
-- 👨‍💻 Estudando constantemente novas tecnologias para aprimorar minhas habilidades  
-- 📚 Foco principal em **back-end, automações e análise de dados**  
-- 🎮 Entusiasta de tecnologia, jogos clássicos e projetos criativos  
-- 🌍 Sempre buscando aprender e compartilhar conhecimento  
+- 👨‍💻 Focado em construir pipelines de dados e soluções escaláveis  
+- 📚 Experiência com **Python, SQL, ETL, Dados e automações**  
+- 🔍 Interesses em **Big Data, orquestração de dados e cloud**   
 
 ---
 
@@ -38,7 +46,7 @@
   <a href="https://www.linkedin.com/in/victor-cabana-simoes/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:victorcsimoes021@gmail.com">
+  <a href="mailto:vcabanadev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
