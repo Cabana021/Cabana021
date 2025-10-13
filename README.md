@@ -21,14 +21,17 @@
 
 ### 📂 Projetos em destaque
 
-- 🧱 **[Automação no Linkedin](https://github.com/Cabana021/automacao-linkedin)**  
+- 🤖 **[Automação no Linkedin](https://github.com/Cabana021/automacao-linkedin)**  
   Automação desenvolvida com Python e Selenium para gerenciar conexões no LinkedIn, removendo contatos com base em palavras-chave definidas pelo usuário.
 
-- 📈 **[Análise de Dados com Pandas](https://github.com/Cabana021/analise-brasileirao)**  
+- 📊 **[Análise de Dados com Pandas](https://github.com/Cabana021/analise-brasileirao)**  
   Projeto em Python para coleta e análise de dados das Séries A e B do Campeonato Brasileiro. Utiliza Pandas e Matplotlib para gerar gráficos e insights sobre desempenho das equipes.
 
-- ☁️ **[Asteroids](https://github.com/Cabana021/game-asteroids)**  
+- 🎮 **[Asteroids](https://github.com/Cabana021/game-asteroids)**  
   Jogo 2D desenvolvido com Python e Pygame. Inspirado no clássico *Asteroids*, apresenta um jogo arcade desafiador e divertido, com inimigos e sistema de pontuação.
+
+- 🗂️ **[Sistema Python](https://github.com/Cabana021/vsystem-manager)**  
+  Sistema CRUD feito com Python e integração a SQL. Permite gerenciar estoque, produtos, clientes e alunos, com informações para cada registro.
 
 ---
 
