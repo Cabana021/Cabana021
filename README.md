@@ -1,7 +1,8 @@
-<h1 align="center">👋 Olá, eu sou o Victor Cabana</h1>
+<!-- Banner -->
+<h1 align="center">👋 Olá, eu sou o <span style="color:#2E9EF7;">Victor Cabana</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Engenheiro+de+Dados;Python+%7C+SQL+%7C+Kafka+Docker+AWS+%7C+Airflow;Construindo+Pipelines+Escaláveis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Engenheiro+de+Dados;Python+%7C+SQL+%7C+Kafka+Docker+AWS+%7C+Airflow;Construindo+Pipelines+Escaláveis" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,11 +11,9 @@
   📊 Apaixonado por tecnologia!
 </p>
 
-<br>
-
 ---
 
-<h1 align="center">Competências Técnicas</h1>
+<h1 align="center">⚡ Competências Técnicas</h1>
 
 <h2 align="center">💻 Linguagens & Frameworks</h2>
 <p align="center">
@@ -48,24 +47,20 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<br>
-
 ---
 
 <h2 align="center">📂 Projetos em Destaque</h2>
 
 <div align="center">
 
-| Projeto | Descrição | Stack Principal |
-|---------|-----------|-----------------|
+| 🚀 Projeto | 🧠 Descrição | 🧰 Stack Principal |
+|-------------|--------------|--------------------|
 | ⭐ **[Real-Time Crypto Monitor](https://github.com/Cabana021/real-time-crypto-monitor)** | Sistema de streaming em tempo real com Apache Kafka para monitoramento de criptomoedas, implementando arquitetura Producer-Consumer com dashboard interativo Streamlit. | `Kafka` `Streamlit` `Docker` |
 | 📊 **[Pipeline Airflow - Cotações](https://github.com/Cabana021/pipeline-airflow-python)** | Pipeline ETL orquestrado com Apache Airflow para extração diária de cotações de moedas via API, transformação com Pandas e persistência em SQLite com Docker. | `Airflow` `Pandas` `SQLite` |
 | 🏛️ **[Pipeline TCE-RJ - Educação](https://github.com/Cabana021/pipeline-despesas-educacao-rj)** | Pipeline ETL completo para análise de despesas municipais em educação do RJ, integrando API do TCE-RJ com processamento Pandas e visualização automatizada. | `Python` `Pandas` `API REST` |
 | ⚽ **[Análise Brasileirão](https://github.com/Cabana021/analise-brasileirao)** | Projeto em Python para coleta e análise de dados das Séries A e B do Campeonato Brasileiro. Utiliza Pandas e Matplotlib para gerar gráficos e insights sobre desempenho das equipes. | `Python` `Pandas` `Selenium` |
 
 </div>
-
-<br>
 
 ---
 
@@ -76,8 +71,6 @@
   📚 Experiência com <b>Python, SQL, ETL, Dados e automações</b><br>
   🔍 Interesses em <b>Big Data, orquestração de dados e cloud</b>
 </p>
-
-<br>
 
 ---
 
@@ -92,6 +85,8 @@
   </a>
 </p>
 
-<br>
-
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer"/>
+</p>
