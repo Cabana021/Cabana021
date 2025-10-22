@@ -15,6 +15,8 @@
 
 <h1 align="center">⚡ Competências Técnicas</h1>
 
+---
+
 <div align="center">
 
 ### 💻 Linguagens & Frameworks
