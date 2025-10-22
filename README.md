@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Focado em <b>Engenharia de Dados</b><br>
-  ⚙️ Experiência com <b>Python</b>, <b>SQL</b> e automações<br>
+  ⚙️ Experiência com <b>Python</b>, <b>SQL</b> e pipelines<br>
   📊 Apaixonado por tecnologia!
 </p>
 
@@ -21,17 +21,17 @@
 
 ### 📂 Projetos em destaque
 
-- 🤖 **[Automação no Linkedin](https://github.com/Cabana021/automacao-linkedin)**  
-  Automação desenvolvida com Python e Selenium para gerenciar conexões no LinkedIn, removendo contatos com base em palavras-chave definidas pelo usuário.
+- 📊 **[Pipeline Airflow - Cotações](https://github.com/Cabana021/pipeline-airflow-python )**  
+  Pipeline ETL orquestrado com Apache Airflow para extração diária de cotações de moedas via API, transformação com Pandas e persistência em SQLite com Docker.
 
-- 📊 **[Análise de Dados com Pandas](https://github.com/Cabana021/analise-brasileirao)**  
+- ⚽ **[Análise Brasileirão](https://github.com/Cabana021/analise-brasileirao)**  
   Projeto em Python para coleta e análise de dados das Séries A e B do Campeonato Brasileiro. Utiliza Pandas e Matplotlib para gerar gráficos e insights sobre desempenho das equipes.
 
-- 🎮 **[Asteroids](https://github.com/Cabana021/game-asteroids)**  
-  Jogo 2D desenvolvido com Python e Pygame. Inspirado no clássico *Asteroids*, apresenta um jogo arcade desafiador e divertido, com inimigos e sistema de pontuação.
+- ⭐ **[Real-Time Crypto Monitor](https://github.com/Cabana021/real-time-crypto-monitor )**  
+  Sistema de streaming em tempo real com Apache Kafka para monitoramento de criptomoedas, implementando arquitetura Producer-Consumer com dashboard interativo Streamlit.
 
-- 🗂️ **[Sistema Python](https://github.com/Cabana021/vsystem-manager)**  
-  Aplicação CRUD desenvolvida em Python com integração a SQL. Permite gerenciar estoques, produtos, clientes e alunos de forma simples e eficiente, com armazenamento estruturado em banco de dados.
+- 🏛️ **[Pipeline TCE-RJ - Educação RJ](https://github.com/Cabana021/pipeline-despesas-educacao-rj)**  
+  Pipeline ETL completo para análise de despesas municipais em educação do RJ, integrando API do TCE-RJ com processamento Pandas e visualização automatizada.
 
 ---
 
