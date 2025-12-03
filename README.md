@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  🚀 Focado em <b>Engenharia de Dados</b><br>
-  ⚙️ Experiência com <b>Python</b>, <b>SQL</b> e pipelines<br>
-  📊 Apaixonado por tecnologia!
+  🚀 Profissional com foco em <b>Engenharia de Dados</b><br>
+  ⚙️ Experiência com <b>Python</b>, <b>SQL</b>, <b>Pipelines ETL/ELT</b>, <b>Docker</b> e <b>AWS</b><br>
+  📊 Dados orientam melhor que opinião.
 </p>
 
 <br>
