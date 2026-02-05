@@ -52,21 +52,6 @@
 
 <br>
 
-<h2 align="center">📂 Projetos em Destaque</h2>
-
-<div align="center">
-
-| 🚀 Projeto | 🧠 Descrição | 🧰 Stack Principal |
-|-------------|--------------|--------------------|
-| ⭐ **[Real-Time Crypto Monitor](https://github.com/Cabana021/real-time-crypto-monitor)** | Sistema de streaming em tempo real com Apache Kafka para monitoramento de criptomoedas, implementando arquitetura Producer-Consumer com dashboard interativo Streamlit. | `Kafka` `Streamlit` `Docker` |
-| 📊 **[Pipeline Airflow - Cotações](https://github.com/Cabana021/pipeline-airflow-python)** | Pipeline ETL orquestrado com Apache Airflow para extração diária de cotações de moedas via API, transformação com Pandas e persistência em SQLite com Docker. | `Airflow` `Pandas` `SQLite` |
-| 🏛️ **[Pipeline TCE-RJ - Educação](https://github.com/Cabana021/pipeline-despesas-educacao-rj)** | Pipeline ETL completo para análise de despesas municipais em educação do RJ, integrando API do TCE-RJ com processamento Pandas e visualização automatizada. | `Python` `Pandas` `API REST` |
-| ⚽ **[Análise Brasileirão](https://github.com/Cabana021/analise-brasileirao)** | Projeto em Python para coleta e análise de dados das Séries A e B do Campeonato Brasileiro. Utiliza Pandas e Matplotlib para gerar gráficos e insights sobre desempenho das equipes. | `Python` `Pandas` `Selenium` |
-
-</div>
-
----
-
 <h2 align="center">📬 Onde Me Encontrar</h2>
 
 <p align="center">
