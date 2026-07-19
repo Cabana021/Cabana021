@@ -1,6 +1,6 @@
 # Victor Cabana
 
-Engenheiro de Dados apaixonado por construir pipelines, plataformas de dados e soluções que transformam dados em decisões de negócio.
+Entusiasta de programação, IA e Engenharia de dados. Me aperfeiçoando na construção de pipelines, plataformas de dados e soluções que transformam dados em decisões de negócio.
 
 ## Sobre
 
