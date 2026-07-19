@@ -1,6 +1,6 @@
 # Victor Cabana
 
-Entusiasta de programação, IA e Engenharia de dados. Me aperfeiçoando na construção de pipelines, plataformas de dados e soluções que transformam dados em decisões de negócio.
+Engenheiro de Dados com interesse em IA aplicada, plataformas de dados e automação.
 
 ## Sobre
 
@@ -17,7 +17,7 @@ Atualmente atuo desenvolvendo soluções de Engenharia de Dados, com foco em int
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| **[Finance Data Pipelines](https://github.com/Cabana021/finance-data-pipelines)** | Pipeline para coleta, transformação e disponibilização de dados financeiros. | Python • SQL • Docker |
+| **[Finance Data Pipelines](https://github.com/Cabana021/finance-data-pipelines)** | Plataforma de engenharia de dados para ingestão, transformação e disponibilização de dados financeiros. | Python • SQL • Docker |
 
 ## Stack
 
@@ -25,9 +25,9 @@ Atualmente atuo desenvolvendo soluções de Engenharia de Dados, com foco em int
   <img src="https://skillicons.dev/icons?i=python,docker,git,aws" />
 </p>
 
-Python • SQL • DuckDB • Polars • Dagster • Docker • Git
-
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/victor-cabana-simoes
-- E-mail: vcabanadev@gmail.com
+| Plataforma | Link |
+|------------|------|
+| LinkedIn | linkedin.com/in/victor-cabana-simoes |
+| E-mail | vcabanadev@gmail.com |
