@@ -1,70 +1,33 @@
-<!-- Banner -->
-<h1 align="center">👋 Olá, eu sou o <span style="color:#2E9EF7;">Victor Cabana</span></h1>
+# Victor Cabana
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Engenheiro+de+Dados;Python+%7C+SQL+%7C+Kafka+Docker+AWS+%7C+Airflow;Construindo+Pipelines+Escaláveis" alt="Typing SVG" />
-</p>
+Engenheiro de Dados apaixonado por construir pipelines, plataformas de dados e soluções que transformam dados em decisões de negócio.
 
-<p align="center">
-  🚀 Profissional com foco em <b>Engenharia de Dados</b><br>
-  ⚙️ Experiência com <b>Python</b>, <b>SQL</b>, <b>Pipelines ETL/ELT</b>, <b>Docker</b> e <b>AWS</b><br>
-  📊 Dados orientam melhor que opinião.
-</p>
+## Sobre
 
-<br>
+Atualmente atuo desenvolvendo soluções de Engenharia de Dados, com foco em integração de dados, automação de processos e plataformas analíticas.
 
-<h1 align="center">⚡ Competências Técnicas</h1>
+**Principais áreas de atuação**
 
-<div align="center">
+- Engenharia de Dados
+- ETL / ELT
+- DataOps
+- Analytics Engineering
 
-<h3>💻 Linguagens & Frameworks</h3>
+## Projetos
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| **[Finance Data Pipelines](https://github.com/Cabana021/finance-data-pipelines)** | Pipeline para coleta, transformação e disponibilização de dados financeiros. | Python • SQL • Docker |
+
+## Stack
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,docker,git,aws" />
 </p>
 
-<h3>⚙️ Orquestração & Processamento</h3>
-<p>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-</p>
+Python • SQL • DuckDB • Polars • Dagster • Docker • Git
 
-<h3>🗄️ Bancos de Dados</h3>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+## Contato
 
-<h3>☁️ Cloud & DevOps</h3>
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-</div>
-
-<br>
-
-<h2 align="center">📬 Onde Me Encontrar</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/victor-cabana-simoes/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vcabanadev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer"/>
-</p>
+- LinkedIn: https://www.linkedin.com/in/victor-cabana-simoes
+- E-mail: vcabanadev@gmail.com
