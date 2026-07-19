@@ -29,5 +29,5 @@ Atualmente atuo desenvolvendo soluções de Engenharia de Dados, com foco em int
 
 | Plataforma | Link |
 |------------|------|
-| LinkedIn | linkedin.com/in/victor-cabana-simoes |
+| LinkedIn | [linkedin.com/in/victor-cabana-simoes](https://www.linkedin.com/in/victor-cabana-simoes/) |
 | E-mail | vcabanadev@gmail.com |
